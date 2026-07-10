@@ -2,8 +2,13 @@
    ```markdown
    # Khau hieu cua tung cap
 
+<<<<<<< HEAD
    Cap 1: no pain no gain
    Cap 2: (dien khau hieu chung)
+=======
+   Cap 1: Hiphop never die (Thinh)
+   Cap 2: VALORANNNNNN
+>>>>>>> origin/main
    Cap 3: (dien khau hieu chung)
    Cap 4: T tin vao may man cua minh
    Cap 5: (dien khau hieu chung)
