@@ -6,7 +6,7 @@
 
    Slot 3: Thịnh nè 
 
-   Slot 4:
+   Slot 4: Thư make changes
 
    Slot 5: Nguyên Phúc đây nha.
 
