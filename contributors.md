@@ -12,7 +12,7 @@
 
    Slot 6:
 
-   Slot 7:
+   Slot 7: Hùng Anh nha.
 
    Slot 8: M.Phuc
 
