@@ -3,7 +3,7 @@
    # Khau hieu cua tung cap
 
    Cap 1: (dien khau hieu chung)
-   Cap 2: (dien khau hieu chung)
+   Cap 2: code la hanh phuc
    Cap 3: (dien khau hieu chung)
    Cap 4: (dien khau hieu chung)
    Cap 5: (dien khau hieu chung)
