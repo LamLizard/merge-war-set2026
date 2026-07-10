@@ -2,7 +2,7 @@
 
    Slot 1: 
 
-   Slot 2:
+   Slot 2:  Lius - trust to luck - "song chet co so, phu quy do troi"
 
    Slot 3:
 
