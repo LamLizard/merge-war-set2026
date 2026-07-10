@@ -1,6 +1,6 @@
    # Danh sach dong gop - SET 2026
 
-   Slot 1: Thư make changes
+   Slot 1: 
 
    Slot 2:
 
@@ -14,7 +14,7 @@
 
    Slot 7:
 
-   Slot 8:
+   Slot 8: M.Phuc
 
    Slot 9:
 
