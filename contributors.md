@@ -24,4 +24,9 @@
   2.
   1.Thinh đây - cho em kes
   2. "30 nam Ha Dong, 30 nam Ha Tay, cho khinh thuong thieu nien ngheo" - Lam
+<<<<<<< HEAD
   3. Nguoi doi bung trong xa hoi / Chưa tày đâu (Quí)
+=======
+  3. Nguoi doi bung trong xa hoi
+  4. Cau quote cua Thu hay nhat roi
+>>>>>>> 831ba45 (thu r3)
