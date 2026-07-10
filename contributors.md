@@ -21,4 +21,4 @@
   ## TOP 3 QUOTE HAY NHAT LOP (chi 3 dong, tranh nhau cho)
   1.Thinh đây
   2.
-  3.SCHUTZENPANZER
+  3. Nguoi doi bung trong xa hoi
