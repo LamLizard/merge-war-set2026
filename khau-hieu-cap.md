@@ -6,7 +6,7 @@
    Cap 1: no pain no gain
    Cap 2: (dien khau hieu chung)
 =======
-   Cap 1: Hiphop never die (Thinh)
+   Cap 1: Hiphop never die (Thinh) - (Sua dong 1)
    Cap 2: VALORANNNNNN
 >>>>>>> origin/main
    Cap 3: (dien khau hieu chung)
