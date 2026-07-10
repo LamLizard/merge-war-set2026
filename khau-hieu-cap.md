@@ -1,14 +1,6 @@
    File `khau-hieu-cap.md` (dùng cho Vòng 2 và 4, mỗi cặp 1 dòng để 2 người cùng cặp CỐ Ý đụng):
    ```markdown
    # Khau hieu cua tung cap
-
-<<<<<<< HEAD
-   Cap 1: Hiphop never die (Thinh)
-=======
-<<<<<<< HEAD
-   Cap 1: no pain no gain
-   Cap 2: (dien khau hieu chung)
-=======
    Cap 1: Hiphop never die (Thinh) - (Sua dong 1)
 >>>>>>> Thu/round-2
    Cap 2: VALORANNNNNN
