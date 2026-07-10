@@ -5,7 +5,7 @@
    Cap 1: (dien khau hieu chung)
    Cap 2: (dien khau hieu chung)
    Cap 3: (dien khau hieu chung)
-   Cap 4: (dien khau hieu chung)
+   Cap 4: Kiệt liu
    Cap 5: (dien khau hieu chung)
    Cap 6: (dien khau hieu chung)
    Cap 7: (dien khau hieu chung)
@@ -13,4 +13,3 @@
    Cap 9: (dien khau hieu chung)
    Cap 10: (dien khau hieu chung)
    ```
-
