@@ -16,7 +16,7 @@
 
    Slot 8:
 
-   Slot 9:
+   Slot 9: Quí
 
    Slot 10:
 
@@ -39,5 +39,3 @@
    Slot 19:
 
    Slot 20:
-
-
