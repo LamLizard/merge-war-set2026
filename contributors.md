@@ -18,24 +18,7 @@
 
    Slot 9: Quí
 
-   Slot 10:
-
-   Slot 11:
-
-   Slot 12:
-
-   Slot 13:
-
-   Slot 14:
-
-   Slot 15:
-
-   Slot 16:
-
-   Slot 17:
-
-   Slot 18:
-
-   Slot 19:
-
-   Slot 20:
+  ## TOP 3 QUOTE HAY NHAT LOP (chi 3 dong, tranh nhau cho)
+  1.
+  2.
+  3.
