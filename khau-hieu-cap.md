@@ -2,7 +2,7 @@
    ```markdown
    # Khau hieu cua tung cap
 
-   Cap 1: (dien khau hieu chung)
+   Cap 1: Hiphop never die (Thinh)
    Cap 2: VALORANNNNNN
    Cap 3: Em lam cham qua
    Cap 4: T tin vao may man cua minh
