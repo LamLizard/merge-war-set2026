@@ -10,7 +10,7 @@
 
    Slot 5: Nguyên Phúc đây nha.
 
-   Slot 6:
+   Slot 6: Thắng nè.
 
    Slot 7:
 
