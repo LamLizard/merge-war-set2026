@@ -20,5 +20,6 @@
 
   ## TOP 3 QUOTE HAY NHAT LOP (chi 3 dong, tranh nhau cho)
   1. "tui nè mọi người"
+  1. "tui 1.2 nè mọi người"
   2.
   3. Nguoi doi bung trong xa hoi
