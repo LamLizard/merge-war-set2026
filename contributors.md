@@ -20,6 +20,7 @@
 
   ## TOP 3 QUOTE HAY NHAT LOP (chi 3 dong, tranh nhau cho)
   1. "tui nè mọi người"
+  1. "tui 1.2 nè mọi người"
   2.
   1.Thinh đây - cho em kes
   2. "30 nam Ha Dong, 30 nam Ha Tay, cho khinh thuong thieu nien ngheo" - Lam
