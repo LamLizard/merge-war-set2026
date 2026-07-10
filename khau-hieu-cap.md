@@ -2,7 +2,7 @@
    ```markdown
    # Khau hieu cua tung cap
 
-   Cap 1: (dien khau hieu chung)
+   Cap 1: no pain no gain
    Cap 2: (dien khau hieu chung)
    Cap 3: (dien khau hieu chung)
    Cap 4: T tin vao may man cua minh
