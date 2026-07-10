@@ -14,7 +14,7 @@
 
    Slot 7:
 
-   Slot 8:
+   Slot 8: M.Phuc
 
    Slot 9: Quí
 
