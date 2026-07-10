@@ -1,6 +1,6 @@
    # Danh sach dong gop - SET 2026
 
-   Slot 1: 
+   Slot 1: Lam - thich co vua + anime va gacha :)))
 
    Slot 2:  Lius - trust to luck - "song chet co so, phu quy do troi"
 
