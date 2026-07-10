@@ -4,7 +4,7 @@
 
    Cap 1: (dien khau hieu chung)
    Cap 2: (dien khau hieu chung)
-   Cap 3: (dien khau hieu chung)
+   Cap 3: Em lam cham qua
    Cap 4: T tin vao may man cua minh
    Cap 5: (dien khau hieu chung)
    Cap 6: (dien khau hieu chung)
