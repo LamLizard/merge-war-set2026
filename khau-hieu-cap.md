@@ -2,7 +2,7 @@
    ```markdown
    # Khau hieu cua tung cap
 
-   Cap 1: (dien khau hieu chung)
+   Cap 1: Hiphop never die (Thinh) - update
    Cap 2: (dien khau hieu chung)
    Cap 3: (dien khau hieu chung)
    Cap 4: (dien khau hieu chung)
@@ -13,4 +13,3 @@
    Cap 9: (dien khau hieu chung)
    Cap 10: (dien khau hieu chung)
    ```
-
