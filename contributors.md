@@ -19,6 +19,6 @@
    Slot 9: Quí
 
   ## TOP 3 QUOTE HAY NHAT LOP (chi 3 dong, tranh nhau cho)
-  1.
+  1.Thinh đây
   2.
   3.SCHUTZENPANZER
