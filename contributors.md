@@ -1,14 +1,14 @@
    # Danh sach dong gop - SET 2026
 
-   Slot 1:
+   Slot 1: 
 
    Slot 2:
 
-   Slot 3:
+   Slot 3: Thịnh nè 
 
    Slot 4:
 
-   Slot 5:
+   Slot 5: Nguyên Phúc đây nha.
 
    Slot 6:
 
