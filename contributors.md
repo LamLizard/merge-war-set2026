@@ -27,3 +27,4 @@
   3. Nguoi doi bung trong xa hoi / Chưa tày đâu (Quí)
   3. Nguoi doi bung trong xa hoi
   4. Cau quote cua Thu hay nhat roi - update
+  3. Nguoi doi bung trong xa hoi / troll - Phuc
