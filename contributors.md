@@ -4,7 +4,7 @@
 
    Slot 2:
 
-   Slot 3:
+   Slot 3: Thịnh nè 
 
    Slot 4:
 
@@ -39,5 +39,3 @@
    Slot 19:
 
    Slot 20:
-
-
