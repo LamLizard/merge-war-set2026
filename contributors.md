@@ -22,3 +22,4 @@
   1. Mở bát suôn sẻ
   2. "30 nam Ha Dong, 30 nam Ha Tay, cho khinh thuong thieu nien ngheo" - Lam
   3. Nguoi doi bung trong xa hoi / Chưa tày đâu (Quí)
+  4. Cau quote cua Thu hay nhat roi
