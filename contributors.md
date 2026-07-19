@@ -35,5 +35,4 @@
    1. M/Phuc: "Cam On Ca Lop Da Cung CAy Git" - HungAnh
 
   - Lam: "Test pull request"
-##Round 6 
-TODO The goat!
+
