@@ -28,7 +28,7 @@
   - Thang: "Test pull request"
 - Thu: "cam on ca lop da cung cay git"
   Kiet - "ai cho m test?"
-   1. M/Phuc: "Cam On Ca Lop Da Cung CAy Git"
+   1. M/Phuc: "Cam On Ca Lop Da Cung CAy Git" - HungAnh
 
   - Lam: "Test pull request"
 
