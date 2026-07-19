@@ -24,4 +24,11 @@
   3. Nguoi doi bung trong xa hoi / Chưa tày đâu (Quí)
 
 ## LOI NHAN CUOI KHOA
+
+
+
+
+
+
+
 - Thu: "cam on ca lop da cung cay git"
