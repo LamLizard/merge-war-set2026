@@ -23,5 +23,8 @@
   2. "30 nam Ha Dong, 30 nam Ha Tay, cho khinh thuong thieu nien ngheo" - Lam
   3. Nguoi doi bung trong xa hoi / Chưa tày đâu (Quí)
 
-   ## LOI NHAN CUOI KHOA
+
+  ## LOI NHAN CUOI KHOA
+  Kiet - "ai cho m test?"
    1. M/Phuc: "Cam On Ca Lop Da Cung CAy Git"
+
