@@ -36,9 +36,10 @@
 
   - Lam: "Test pull request"
 
-
+## Vòng 6
 - TODO chua xong DUNG MERGE dong nay
 
 - TODO chua xong DUNG MERGE dong nay 
 
+- TODO chua xong DUNG MERGE dong nay - HungAnh
 
