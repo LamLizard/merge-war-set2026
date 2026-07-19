@@ -35,9 +35,7 @@
    1. M/Phuc: "Cam On Ca Lop Da Cung CAy Git" - HungAnh
 
   - Lam: "Test pull request"
-##Round 6
-TODO dang lam dong nay, dung merge - N.Phúc
 
 
 
-- TODO chua xong DUNG MERGE dong nay - HungAnh- TODO chua xong DUNG MERGE dong nay
+
