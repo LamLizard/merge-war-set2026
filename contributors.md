@@ -19,8 +19,16 @@
    Slot 9: Quí
 
   ## TOP 3 QUOTE HAY NHAT LOP (chi 3 dong, tranh nhau cho)
-  1. Mở bát suôn sẻ
+  1. Mở bát suôn sẻ , aaaaaaaaaaaaa
   2. "30 nam Ha Dong, 30 nam Ha Tay, cho khinh thuong thieu nien ngheo" - Lam
   3. Nguoi doi bung trong xa hoi / Chưa tày đâu (Quí)
 ## LOI NHAN CUOI KHOA
+
  3. Ca này khó cứu.
+  - Thang: "Test pull request"
+- Thu: "cam on ca lop da cung cay git"
+  Kiet - "ai cho m test?"
+   1. M/Phuc: "Cam On Ca Lop Da Cung CAy Git"
+
+  - Lam: "Test pull request"
+
