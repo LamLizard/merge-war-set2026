@@ -1,2 +1,2 @@
 ## Ghi chu cua thang
-- Meo git minh tam dac nhat: ...
+- Toi dep trai the
